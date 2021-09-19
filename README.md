@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Kemal Yetkin</h1>
 <h3 align="center">Software Test Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Huawei HMS Services**
+- 🔭 I’m currently working on **Huawei Mobile Services**
 
 - 📫 How to reach me **ahmetkemalyetkin@gmail.com**
 
