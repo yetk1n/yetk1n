@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet Kemal Yetkin</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Kemal</h1>
 <h3 align="center">Software Test Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Huawei Mobile Services**
