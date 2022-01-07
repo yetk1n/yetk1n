@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Kemal</h1>
-<h3 align="center">Software Test Engineer from Turkey, Computer Engineering Master' Student at Istanbul Technical University</h3>
+<h3 align="center">Software Test Engineer, Computer Engineering Master' Student at Istanbul Technical University</h3>
 
 - 🔭 I’m currently working on **Huawei Mobile Services**
 
