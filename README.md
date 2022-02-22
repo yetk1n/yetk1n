@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="android" width="40" height="40"/> I'm Ahmet Kemal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="android" width="40" height="40"/> , I'm Ahmet Kemal</h1>
 <h3 align="center">Software Test Engineer, Computer Engineering Master's Student at Istanbul Technical University</h3>
 
 - 🔭 I’m currently working on **Huawei Mobile Services**
