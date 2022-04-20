@@ -6,8 +6,8 @@
 - 📫 How to reach me **ahmetkemalyetkin@gmail.com**
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="android" width="20" height="20"/> Linkedin: [ahmetkemalyetkin](https://www.linkedin.com/in/ahmetkemalyetkin/) 
 <p align="left">
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
+<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="photoshop" width="40" height="40"/> 
