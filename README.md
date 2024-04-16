@@ -4,6 +4,15 @@
 - 🔭 I’m currently working on **Hepsiburada Mobile App and Speech Emotion Recognition**
 
 - 📫 How to reach me **ahmetkemalyetkin@gmail.com**
+
+<p align="center">
+<a href="https://www.github.com/yetk1n"><img src="https://img.shields.io/github/followers/yetk1n?style=social"/></a>
+<a href="https://www.linkedin.com/in/ahmetkemalyetkin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+<a href="https://medium.com/@ahmetkemalyetkin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.kaggle.com/ahmetkemalyetkin"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="60" height="20" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=yetk1n"/>
+</p>
 <!-- - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="android" width="20" height="20"/> Linkedin: [ahmetkemalyetkin](https://www.linkedin.com/in/ahmetkemalyetkin/) 
 <p align="left">
 <a href="https://www.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
